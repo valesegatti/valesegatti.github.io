@@ -1,6 +1,6 @@
 # valesegatti.github.io
 <html>
-  <head>
-    <title>Come fare i brownies polo</title>
-  </head>
+  <body>
+    <h1>Come fare i brownies polo</h1>
+  </body>
 </html>
