@@ -9,7 +9,7 @@
     <a href="libro2.html">1984</a>
     <img src="images/4869832969_0bd11d84e0_q.jpg">
     
-    <img src="https://live.staticflickr.com/7492/16319841242_2c64044d26_o.jpg" width="618" height="1054" alt="1984">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/7448869@N03/16319841242/in/photostream/" title="1984"><img src="https://live.staticflickr.com/7492/16319841242_2c64044d26_o.jpg" width="618" height="1054" alt="1984"/></a>
     <a data-flickr-embed="true" href="https://www.flickr.com/photos/jhack/10762525413" title="Animal Farm"><img src="https://live.staticflickr.com/3748/10762525413_8c24ee8734_o.jpg" width="1289" height="2127" alt="Animal Farm"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
   <script src="https://www.gdprset.it/widget/gdpr-it-1.js" type="text/javascript"></script> 
