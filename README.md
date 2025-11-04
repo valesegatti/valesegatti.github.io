@@ -8,7 +8,7 @@
     <p>George Orwell, pseudonimo di Eric Arthur Blait (1903-1950), è stato uno scrittore, giornalista, saggista, attivista e critico letterario britannico.</p>
     <p>Celebri sono le sue opere di critica sociale e politica, la sua scrittura è impegnata contro ogni forma di totalitarismo e manipolazione ideologica.</p>
     <p>Le sue opere principali sono: </p>
-     <p>-</p> <a href="libro1.html">La fattoria degli animali</a>
+     <p>-<a href="libro1.html">La fattoria degli animali</a></p> 
      <p>-</p><a href="libro2.html">1984</a>
 <p>Oltre a questi libri, Orwell scrisse, ad esempio, "Omaggio alla Catalogna", personale resoconto dell'autore della guerra civile spagnola, e "Fiorirà l'aspidistra", il cui protagonista è un ribelle impegnato in una battaglia contro il mondo comandato dal denaro.  </p>
    <img src="images/3300210876_a708c5979f_q.jpg">
