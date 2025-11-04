@@ -5,7 +5,7 @@
   </header>
   <body>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/George_Orwell%2C_c._1940_%2841928180381%29.jpg" width="200" heigth="500">
-    <p>George Orwell, pseudonimo di Eric Arthur Blait (1903-1950), è stato uno scrittore, giornalista, saggista, attivista e critico letterario britannico.</p>
+    <p>George Orwell, pseudonimo di Eric Arthur Blair (1903-1950), è stato uno scrittore, giornalista, saggista, attivista e critico letterario britannico.</p>
     <p>Celebri sono le sue opere di critica sociale e politica. La sua scrittura è impegnata contro ogni forma di totalitarismo e manipolazione ideologica.</p>
     <p>Le sue opere principali sono: </p>
      <p>-<a href="libro1.html">La fattoria degli animali</a></p> 
